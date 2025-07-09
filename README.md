@@ -2,6 +2,15 @@
 
 This project applies machine learning to predict stroke risk based on patient health records, helping healthcare providers detect high-risk individuals early and allocate preventive care resources more efficiently.
 
+## 📁 Project Structure
+
+ - 📂 Dataset/ → Raw data files
+ - 📂 EDA/ → Notebooks or scripts for exploratory data analysis
+ - 📄 stroke_preprocessed.csv → Cleaned and preprocessed dataset
+ - 📄 Stroke_Prediction.ipynb → Full modeling and evaluation workflow
+ - 📄 Stroke Prediction For Early Intervention.pdf → Final project report
+ - 📄 README.md → Project overview and documentation
+
 ## 📌 Objectives
 
 - Select and clean meaningful health features from the dataset
